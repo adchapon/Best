@@ -5,5 +5,7 @@
 	echo 'test demo';
 
 	echo 'after mearge';
+
+    echo 'after commit';
 	
 ?>
