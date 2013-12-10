@@ -6,4 +6,6 @@
 
 	echo 'after mearge';
 	echo 'delete';
+
+    echo 'test narospol ';
 ?>
