@@ -6,4 +6,12 @@
 	echo 'delete';
 
 
+
+
 ?>
+
+<html>
+    <body>
+        PHP
+    </body>
+</html>
