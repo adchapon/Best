@@ -1,16 +1,9 @@
 <?php
-	echo 'test';
 
-	echo 'start demo';
-	echo 'test demo';
+    echo 'php';
 
 	echo 'after mearge';
 	echo 'delete';
 
-    echo 'test narospol ';
-    echo 'josh bast';
-    echo "HI NAROS";
-    echo "HERO NEW!!"
 
-    echo 'hi josh best';
 ?>
