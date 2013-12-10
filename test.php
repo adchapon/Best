@@ -8,6 +8,7 @@
 	echo 'delete';
 
     echo 'after commit aaa';
-    echo 'error';
+    echo 'error merge';
+
 	
 ?>
