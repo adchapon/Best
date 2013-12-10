@@ -9,5 +9,6 @@
 
     echo 'test narospol ';
     echo 'josh bast';
-    echo "HI NAROS"
+    echo "HI NAROS";
+    echo "SAY HI";
 ?>
