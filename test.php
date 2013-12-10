@@ -8,4 +8,5 @@
 	echo 'delete';
 
     echo 'test narospol ';
+    echo 'josh bast';
 ?>
