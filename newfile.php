@@ -6,4 +6,5 @@
  * Time: 1:34 น.
  */
     echo 'naros';
+    echo 'php info';
 ?>
