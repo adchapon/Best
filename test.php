@@ -6,6 +6,6 @@
 
 	echo 'after mearge';
 
-    echo 'after commit';
+    echo 'after commit aaa';
 	
 ?>
