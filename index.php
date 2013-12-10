@@ -11,7 +11,7 @@ class index
     public function test()
     {
         phpinfo();
-        echo 'test ignored file';
+        echo 'test ignored file test';
     }
 }
 ?>
