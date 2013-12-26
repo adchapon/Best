@@ -10,8 +10,7 @@ class index
 {
     public function test()
     {
-        phpinfo();
-        echo 'test ignored file test';
+       echo "Hello World";
     }
 }
 ?>
